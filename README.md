@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marsyleeno
 - 👀 I’m interested in Computer Programming and other Tech topics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C, C++, and JavaScript
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me: marsyleeno@gmail.com
 - 😄 Pronouns: He/him
