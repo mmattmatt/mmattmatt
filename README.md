@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @marsyleeno
+- 👀 I’m interested in Computer Programming and other Tech topics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on big projects
+- 📫 How to reach me: marsyleeno@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: The term "bug" in programming actually comes from a real bug! In 1947, a moth was found stuck in a relay of the Harvard Mark II computer, causing a malfunction.
